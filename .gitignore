@@ -1,4 +1,11 @@
-./runs
-./yolov8x.pt
-./input_video
-./.idea
+# Ignore the runs directory
+runs/
+
+# Ignore the yolov8x.pt file
+yolov8x.pt
+
+# Ignore the input_video directory
+input_video/
+
+# Ignore the .idea directory (used by JetBrains IDEs like PyCharm)
+.idea/
