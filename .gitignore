@@ -1,1 +1,4 @@
-.idea
+./runs
+./yolov8x.pt
+./input_video
+./.idea
